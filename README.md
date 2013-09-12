@@ -10,8 +10,8 @@ HTTP. [jQuery] in version 1.10.2, for example, is served at each of the
 following locations:
 
 - http://static.quirkies.org/jquery/1.10.2.js
-- https://raw@github.com/quirkies/static.quirkies.org/gh-pages/jquery/1.10.2.js
-- ssh://git@github.com:quirkies/static.quirkies.org/jquery/1.10.2.js
+- https://raw.github.com/quirkies/static.quirkies.org/gh-pages/jquery/1.10.2.js
+- git@github.com:quirkies/static.quirkies.org/jquery/1.10.2.js
 
 (Note that accessing the latter requires being authorized at GitHub.)
 
