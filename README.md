@@ -9,8 +9,7 @@ files.
 Copyright & License
 -------------------
 
-The copyrights (c) for the software resources in this repository belong to
-their respective owners and are denoted for each entity, in either the file
-itself or a README file in the same directory structure.
+The copyrights and license conditions (if any) for the files in this
+repository are denoted in each file explicitly.
 
 
